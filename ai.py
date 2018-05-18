@@ -1,5 +1,5 @@
 import random
-
+# hloupa poznamka
 # Hloupa strategie pro pocitac
 def tah_pocitace(pole):
     pozice = random.randrange(len(pole))
