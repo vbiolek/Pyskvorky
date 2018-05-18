@@ -1,5 +1,6 @@
 import random
 
+# Hloupa strategie pro pocitac
 def tah_pocitace(pole):
     pozice = random.randrange(len(pole))
     symbol = 'o'
